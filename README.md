@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Amazon Sales Dashboard](screenshots/Amazon_Sales_Dashboard.png)
+![Amazon Sales Dashboard](screenshots/Amazon_sales_dashboard.png)
 
 ---
 
@@ -100,7 +100,7 @@ A detailed matrix displaying:
 
 # 📷 Dashboard Screenshot
 
-![Dashboard](screenshots/Amazon_Sales_Dashboard.png)
+![Dashboard](screenshots/Amazon_sales_dashboard.png)
 
 ---
 
@@ -233,17 +233,13 @@ Amazon-Sales-Dashboard-PowerBI
 │   └── Amazon_Sales_Data.xlsx
 │
 ├── sql-queries
-│   ├── Data_Extraction.sql
-│   ├── Sales_Analysis.sql
-│   ├── Customer_Analysis.sql
-│   ├── Product_Analysis.sql
-│   └── Regional_Analysis.sql
+│   ├── Sql_queries.sql
 │
 ├── dax-measures
 │   └── DAX_Measures.md
 │
 └── documentation
-    └── Project_Documentation.pdf
+    └── Amazon_Sales_Dashboard_Project_Documentation.pdf
 ```
 
 ---
